@@ -1,2 +1,2 @@
-image: alinacna/vat:<+pipeline.sequenceId>
+image: alinacna/vat:latest
 replicas: 1
